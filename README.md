@@ -3,8 +3,8 @@
 **Objectives of the project:**
 
 This project has two specific aims:
-    • Predicting weekly energy usage for individual household unit by analyzing its historical consumption levels,
-    • Evaluating the strengths and weaknesses of various modeling approaches for time series forecasting.
+    + Predicting weekly energy usage for individual household unit by analyzing its historical consumption levels,
+    + Evaluating the strengths and weaknesses of various modeling approaches for time series forecasting.
 On a broader scale, the objective includes optimizing energy forecasting to balance supply and demand effectively.
 
 ### **PROJECT WORKFLOW**
