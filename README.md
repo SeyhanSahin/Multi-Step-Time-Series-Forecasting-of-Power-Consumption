@@ -1,6 +1,7 @@
 ## Multi-Step Time Series Forecasting of Power Consumption: Evaluation of Various Models Including CNN, LSTM, CNN-LSTM, and Multiple Linear Regression
 
 **Objectives of the project:**
+
 This project has two specific aims:
     • Predicting weekly energy usage for individual household unit by analyzing its historical consumption levels,
     • Evaluating the strengths and weaknesses of various modeling approaches for time series forecasting.
