@@ -1,6 +1,8 @@
 # <h1 align="center">**Multi-Step Time Series Forecasting of Power Consumption:**</h1>
 # <h1 align="center">**Evaluation of Various Models Including CNN, LSTM, CNN-LSTM, and Multiple Linear Regression**</h1>
 
+# <h1 align="center">**Multi-Step Time Series Forecasting of Power Consumption: Evaluation of Various Models Including CNN, LSTM, CNN-LSTM, and Multiple Linear Regression**</h1>
+
 **Objectives of the project:**
 
 This project has two specific aims:
