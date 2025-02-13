@@ -1,4 +1,5 @@
-## Multi-Step Time Series Forecasting of Power Consumption: Evaluation of Various Models Including CNN, LSTM, CNN-LSTM, and Multiple Linear Regression
+## <h1 align="center">Multi-Step Time Series Forecasting of Power Consumption: Evaluation of Various Models Including CNN, LSTM, CNN-LSTM, and Multiple Linear Regression**</h1>
+# <h1 align="center">**MULTI-STEP TIME SERIES FORECASTING OF POWER CONSUMPTION:**</h1>
 
 **Objectives of the project:**
 
