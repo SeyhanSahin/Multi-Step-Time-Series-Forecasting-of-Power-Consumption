@@ -1,6 +1,8 @@
 <h1 align="center"><strong>Multi-Step Time Series Forecasting of Power Consumption</strong></h1>
 <h2 align="center"><strong>Evaluation of Various Models Including CNN, LSTM, CNN-LSTM, and Multiple Linear Regression</strong></h2>
 
+Electricity is consumed at the same moment it is generated in power plants, and its storage is limited by current technology. Therefore, accurately predicting energy consumption in advance is crucial for maintaining a stable power supply.
+
 **Objectives of the project:**
 
 This project has two specific aims:
