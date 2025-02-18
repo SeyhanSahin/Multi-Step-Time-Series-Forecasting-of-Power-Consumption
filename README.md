@@ -5,13 +5,13 @@ During my internship at CETIC ICT, I worked on a project involving multivariate 
 
 **Objectives of the project:**
 
-This project has two specific aims:
+This project had two specific aims:
 
-    • Predicting weekly energy usage for individual household unit by analyzing its historical consumption levels,
+    • Predicting weekly energy usage for an individual household unit by analyzing its historical consumption levels,
     
     • Evaluating the strengths and weaknesses of various modeling approaches for time series forecasting.
     
-On a broader scale, the objective includes optimizing energy forecasting to balance supply and demand effectively.
+On a broader scale, the objective was to optimize energy forecasting to balance supply and demand effectively. One of the main challenges was handling the complexity and variability of energy consumption patterns, influenced by external factors such as weather conditions and user behavior. To address this, I implemented data preprocessing techniques and a hybrid CNN-LSTM model, which improved prediction accuracy.
 
 ### **PROJECT WORKFLOW**
     1. Import the necessary libraries
