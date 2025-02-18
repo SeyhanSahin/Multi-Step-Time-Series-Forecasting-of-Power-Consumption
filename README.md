@@ -1,7 +1,9 @@
 <h1 align="center"><strong>Multi-Step Time Series Forecasting of Power Consumption</strong></h1>
 <h2 align="center"><strong>Evaluation of Various Models Including CNN, LSTM, CNN-LSTM, and Multiple Linear Regression</strong></h2>
 
-During my internship at CETIC ICT, I worked on a project involving multivariate time series forecasting for industrial applications. The goal was to accurately predict energy consumption in advance to maintain a stable power supply, as electricity is consumed simultaneously as it is generated in power plants, and its storage is limited by current technology.
+During my internship at CETIC ICT, I worked on a project involving multivariate time series forecasting for industrial applications.
+
+Electricity is consumed simultaneously as it is generated in power plants, and its storage is limited by current technology. Therefore, accurately predicting energy consumption in advance is crucial for maintaining a stable power supply.
 
 **Objectives of the project:**
 
@@ -11,7 +13,7 @@ This project had two specific aims:
     
     • Evaluating the strengths and weaknesses of various modeling approaches for time series forecasting.
     
-On a broader scale, the objective was to optimize energy forecasting to balance supply and demand effectively. One of the main challenges was handling the complexity and variability of energy consumption patterns, influenced by external factors such as weather conditions and user behavior. To address this, I implemented data preprocessing techniques and a hybrid CNN-LSTM model, which improved prediction accuracy.
+On a broader scale, the objective was to optimize energy forecasting to balance supply and demand effectively. One of the main challenges was handling the complexity and variability of energy consumption patterns, influenced by external factors such as weather conditions and user behavior. To address this, I implemented data preprocessing techniques which improved prediction accuracy.
 
 ### **PROJECT WORKFLOW**
     1. Import the necessary libraries
