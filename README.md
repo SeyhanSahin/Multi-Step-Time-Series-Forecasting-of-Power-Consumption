@@ -5,7 +5,7 @@
 
 **Objectives of the project:**
 
-This project had two specific aims:
+This project has two specific aims:
 
     • Predicting weekly energy usage for an individual household unit by analyzing its historical consumption levels,
     
