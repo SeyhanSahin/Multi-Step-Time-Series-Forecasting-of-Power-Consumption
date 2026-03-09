@@ -11,6 +11,10 @@ This project has two specific aims:
     
     • Evaluating the strengths and weaknesses of various modeling approaches for time series forecasting.
 
+
+<img width="938" height="835" alt="image" src="https://github.com/user-attachments/assets/2ea16788-e961-492d-98e1-a9c3d7b6036a" />
+
+
 ### **PROJECT WORKFLOW**
     1. Import the necessary libraries
     2. Import and explore the dataset
